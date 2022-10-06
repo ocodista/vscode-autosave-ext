@@ -1,0 +1,11 @@
+{
+  "name": "vscode-autosave-public",
+  "version": "1.0.0",
+  "description": "![Visual Studio Marketplace Installs - Azure DevOps Extension](https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/codista.vscode-autosave) ![Visual Studio Marketplace Release Date](https://img.shields.io/visual-studio-marketplace/release-date/codista.vscode-autosave)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
