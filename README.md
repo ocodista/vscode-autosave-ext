@@ -19,7 +19,7 @@ Use your time to focus on what matters: **writting quality code!**
 ## Features
 * **(DONE)** AutoSave your file when there's no problem.  
 * **(DONE)** Display progress notifications for saved minutes.
-* **(NEXT)** Know saved time daily/weekly/monthly.  
+* **(DONE)** Know saved time daily/weekly/monthly.  
 * **(FUTURE)** Disable autoSave for specific moments (like openning a bracket)
 * **(FUTURE)** AutoImport all on save.  
 * **(FUTURE)** Cool metrics dashboard.
