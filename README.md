@@ -6,11 +6,11 @@
 
 Forget about CTRL + S!
 
-Save your progress whenever the file is free of problem.
+Save your progress whenever the file is free of errors.
 
-*Works better with `editor.formatOnSave: true`*
+*Works best with `editor.formatOnSave: true`.*
 
-Use your time to focus on what matters: **writting quality code!**  
+Use your time to focus on what matters: **writing quality code!**
 
 ## Demo
 ![demo](https://github.com/CB0rghi/vscode-autosave-ext/raw/main/demo.gif)
@@ -19,8 +19,8 @@ Use your time to focus on what matters: **writting quality code!**
 ## Features
 * **(DONE)** AutoSave your file when there's no problem.  
 * **(DONE)** Display progress notifications for saved minutes.
+* **(DONE)** Disable autoSave for specific moments (like opening a bracket)
 * **(NEXT)** Know saved time daily/weekly/monthly.  
-* **(FUTURE)** Disable autoSave for specific moments (like openning a bracket)
 * **(FUTURE)** AutoImport all on save.  
 * **(FUTURE)** Cool metrics dashboard.
 
